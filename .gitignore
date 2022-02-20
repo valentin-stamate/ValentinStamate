@@ -1,1 +1,4 @@
 /.firebase/
+.vscode/
+.firebaserc/
+.firebase.json/
